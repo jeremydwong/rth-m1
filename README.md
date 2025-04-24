@@ -1,2 +1,2 @@
 # rth-m1
-using rth human keypoitn detection on a mac. 
+using rth human keypoint detection on a mac.
